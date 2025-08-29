@@ -157,9 +157,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE)
 If you have any questions or feedback, feel free to reach out:
 
 - **Your Name**  
-- **Email**: balajikarthik004@gmail.com  
-- **GitHub**: [balajikarthik2004](https://github.com/balajikarthik2004)  
-- **LinkedIn**: [Balaji](https://www.linkedin.com/in/balaji-k-894031258/)
+- **Email**: svaseemm@gmail.com   
+
 
 ---
 
